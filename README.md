@@ -3,8 +3,6 @@
 Developed as the final project of my web development bootcamp at Ironhack Barcelona. It's a MERN Stack application, check the backend repository [here](??????).
 
 ## About
-Hi! My name is Andrea. I'm a designer and a web developer. This project constitutes my own portfolio, a platform that makes it easier for me to promote my work to the public and at the same time makes it easier for users interested in my services to place an order or contact directly with me.  
-
 Hi! We are Ross && Roberto! We are two developers at Iron Hack. This project was inspired by the lack of public toilets in Barcelona.  Although there are resources that show the facilities available in map format. There is a lot of important information missing. At what times are they open? Are they only available during the day? Are they safe? Are they clean? These are important factors that need to be taken in to account, that a lot of existing resources available do not do.   
 
 ![Project Image](https://cdn-icons-png.flaticon.com/512/194/194432.png "Project Image")
