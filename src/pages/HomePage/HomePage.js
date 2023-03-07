@@ -1,8 +1,6 @@
 import "./HomePage.css";
 // import ToiletsListPage from "../ToiletsListPage";
 import homeBackground from '../../images/pexels-photo-2949748.jpeg';
-import Navbar from "../../components/Navbar/Navbar";
-import Footer from "../../components/Navbar/footer";
 
 
 

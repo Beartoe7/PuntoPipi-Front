@@ -11,7 +11,6 @@ function Footer() {
        <li className="col-4 list-unstyled text-center"><Link to="#" className="nav-link">Disclaimers </Link></li>
        <li className="col-4 list-unstyled text-center"><Link to="#" className="nav-link">Cookies </Link></li>
     </ul>
-
     <span className="text-right text-lg" id="copyr"> © 2013-2023 PuntoPipi Inc. All rights reserved </span>
   </footer>
       );

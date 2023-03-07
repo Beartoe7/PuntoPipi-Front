@@ -9,7 +9,7 @@ import ToiletsListPage from "./pages/ToiletsListPage"
 // import LogIn from "./pages/access/LogIn"
 // import LogOut from "./pages/access/LogOut"
 // import SignUp from "./pages/access/SignUp"
-// import About from "./pages/About"
+import About from "./pages/About"
 
 import { Routes, Route } from "react-router-dom";
 
@@ -26,7 +26,7 @@ function App() {
         {/* <Route path="/users" element={<LogIn />} /> */}
         {/* <Route path="/users" element={<LogOut />} /> */}
         {/* <Route path="/users" element={<SignUp />} /> */}
-        {/* <Route path="/about" element={<About />} /> */}
+        <Route path="/about" element={<About />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>  
       <Footer />    
