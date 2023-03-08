@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 function Footer() {
   return (
-    <footer className="containerFooter">
+    <footer className="containerFooter p-5">
     <ul className="row justify-content-between w-100">
        <li className="col-4 list-unstyled text-center"><Link to="#" className="nav-link">Privacy Policy </Link></li>
        <li className="col-4 list-unstyled text-center"><Link to="#" className="nav-link">Disclaimers </Link></li>
